@@ -773,5 +773,18 @@
       {"name":"pipboy.app.js","url":"app.js"},
       {"name":"pipboy.img","url":"app-icon.js","evaluate":true}
     ]
-  }
+  },
+  { "id": "jphenix",
+  "name": "Jeu du Phenix",
+  "shortName" : "JPhenix",
+  "icon": "jphenix.png",
+  "description": "Training tools for 'Jeu Du Phenix'",
+  "allow_emulator":true,
+  "tags": "",
+  "storage": [
+    {"name":"jphenix.app.js","url":"jphenix.js"},
+    {"name":"jphenix.img","url":"jphenix-icon.js","evaluate":true}
+  ],
+},
+  
 ]
