@@ -784,7 +784,7 @@
   "storage": [
     {"name":"jphenix.app.js","url":"jphenix.js"},
     {"name":"jphenix.img","url":"jphenix-icon.js","evaluate":true}
-  ],
-},
+  ]
+ }
   
 ]
