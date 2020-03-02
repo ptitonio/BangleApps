@@ -783,7 +783,7 @@
     "allow_emulator": true,
     "tags": "",
     "storage": [
-      {"name":"jphenix.app.js","url":"jphenix.js"},
+      {"name":"jphenix.app.js","url":"jphenix.app.js"},
       {"name":"jphenix.img","url":"jphenix-icon.js","evaluate":true}
     ]
  }
